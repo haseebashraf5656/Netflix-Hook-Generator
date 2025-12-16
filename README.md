@@ -4,7 +4,7 @@ An interactive Netflix-style tool that turns any movie or TV show name — even 
 
 Built with Python, pandas, and ipywidgets in Google Colab. No machine learning training needed — just smart lookup, fuzzy matching, and fun rephrasing using real Netflix data.
 
-## 🚀 Features
+##  Features
 
 - **Fuzzy Search**: Handles typos (e.g., "Squd Game" → "Squid Game")
 - **Alternate Titles Support**: "Money Heist" automatically maps to "La Casa de Papel"
@@ -13,11 +13,11 @@ Built with Python, pandas, and ipywidgets in Google Colab. No machine learning t
 - **Beautiful Netflix-Themed UI**: Red button, dark mode card — feels like the real Netflix app!
 - **Fast & Lightweight**: Runs instantly in Colab, no GPU or external APIs needed
 
-## 📸 Screenshot
+##  Screenshot of how it Looks
 <img width="1599" height="224" alt="image" src="https://github.com/user-attachments/assets/a512ea38-c759-4dd4-8e6d-beee30c000d4" />
 
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Click the **"Open in Colab"** badge above
 2. Run all cells (Runtime → Run all)
@@ -33,7 +33,7 @@ Built with Python, pandas, and ipywidgets in Google Colab. No machine learning t
 **Input**: `Squd Game` (typo)  
 **Output**: Closest match found → Full exciting hook for *Squid Game*
 
-## 📊 Dataset
+##  Dataset
 
 Uses a cleaned version of the famous Netflix titles dataset (~8,800 movies and TV shows) with columns:
 - title
@@ -46,7 +46,7 @@ Uses a cleaned version of the famous Netflix titles dataset (~8,800 movies and T
 
 Duplicates handled, titles lowercased for fast lookup.
 
-## 🧑‍💻 Tech Stack
+## Tech Stack
 
 - **Python**
 - **pandas** – Data loading and lookup
@@ -56,7 +56,7 @@ Duplicates handled, titles lowercased for fast lookup.
 
 No external APIs | No training | Fully offline
 
-## 🌟 Why This Project Rocks
+##  Why This Project Rocks
 
 Perfect for:
 - Learning data handling with pandas
@@ -64,7 +64,7 @@ Perfect for:
 - Practicing clean, modular code
 - Portfolio showcase (data + UI + real-world utility)
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to:
 - Add more aliases (e.g., regional titles)
@@ -74,11 +74,11 @@ Feel free to:
 
 Just fork, make changes, and open a PR!
 
-## 📝 License
+##  License
 
 MIT License — free to use, modify, and share.
 
 ---
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Muhammad Haseeb Ashraf
 Inspired by endless Netflix scrolling sessions.
